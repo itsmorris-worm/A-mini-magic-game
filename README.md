@@ -1,7 +1,7 @@
 # A MINI MAGIC GAME
 ### 👨‍💻Developed in C-language
 - Used basics of C language
-- Used basic mathematics to guess the number running in someones mind.
+- Used basic mathematics to guess the number running in someones head.
 
 ## Run as:
 
